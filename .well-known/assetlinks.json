@@ -2,8 +2,8 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "co.stone.banking.mobile.flagship.sandbox",
+    "package_name": "co.stone.banking.mobile.flagship",
     "sha256_cert_fingerprints":
-    ["A9:E4:E0:B0:D4:60:85:0C:C9:42:5B:30:23:89:C7:B6:3D:A4:A5:5E:67:F5:FA:91:A7:15:11:5E:45:87:F8:8D"]
+    ["4F:AE:8F:96:B9:C0:E5:37:DA:F2:58:BF:CE:58:02:C7:66:A7:E2:9F:DB:9C:59:32:EE:3C:46:DC:13:F3:12:95"]
   }
 }]
